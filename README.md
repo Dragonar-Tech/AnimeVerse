@@ -2,7 +2,7 @@
 
 A fast, modern anime discovery app built with React and the Jikan API. Search thousands of titles, explore details, and find your next obsession.
 
-**Live Demo:** https://anime-verse-opal.vercel.app/
+**Live Demo:** https://anime-verse11-bm6jqejto-aryan-khandelwals-projects-da3a0729.vercel.app/
 
 ---
 
